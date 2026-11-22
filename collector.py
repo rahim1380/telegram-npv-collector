@@ -17,6 +17,8 @@ CHANNELS = [
     "iranping24",
     "Configvibes",
     "JOFAVPN",
+    "VConfing",
+    "appsooner",
 ]
 
 ARCHIVE_PATH = Path("data/archive.json")
