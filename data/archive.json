@@ -2028,5 +2028,89 @@
     "channels": [
       "yorpeanel"
     ]
+  },
+  "vless://4e932df2-a06a-4043-861c-87fe8d217aae@70.34.211.236:40118?encryption=none&security=reality&sni=delivery.mp.microsoft.com&fp=firefox&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=9b98825681aba023&type=tcp&headerType=none#%40levconnect": {
+    "first_seen": "2026-11-22T15:06:45+00:00",
+    "last_seen": "2026-11-22T15:06:45+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch.mntw.lol&fp=firefox&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&sid=76d0389e457fcba0&type=tcp&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#%40levconnect": {
+    "first_seen": "2026-11-22T15:06:45+00:00",
+    "last_seen": "2026-11-22T15:06:45+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vmess://eyJhZGQiOiAiMTU0LjQ3LjE5LjIyNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEyNzAiLCAicHMiOiAiQEZyZWVBbGllbnNCb3QiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9#%40levconnect": {
+    "first_seen": "2026-11-22T15:06:45+00:00",
+    "last_seen": "2026-11-22T15:06:45+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&type=tcp&headerType=none#%40levconnect": {
+    "first_seen": "2026-11-22T15:06:45+00:00",
+    "last_seen": "2026-11-22T15:06:45+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7557.shopingggg.ir:19999#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.27.21:8388#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@9.247.23.209:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-nl2695.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl5425.shopingggg.ir:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-22T15:12:41+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
   }
 }
