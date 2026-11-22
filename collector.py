@@ -19,6 +19,15 @@ CHANNELS = [
     "JOFAVPN",
     "VConfing",
     "appsooner",
+    "SkyLiink_vpn",
+    "haj_config",
+    "V2RAYROZ",
+    "PasargadConfig",
+    "irannodes",
+    "V2RAYNG_Outline_VPN",
+    "yorpeanel",
+    "Nexus_Panell",
+    "JKVPN",
 ]
 
 ARCHIVE_PATH = Path("data/archive.json")
