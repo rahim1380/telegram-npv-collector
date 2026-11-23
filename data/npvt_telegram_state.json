@@ -1,38 +1,24 @@
 {
   "channels": {
-    "MARAMBASHI": 41916,
-    "v2ray_Mammad": 2592,
-    "levconnect": 2097,
-    "iranping24": 2364,
+    "MARAMBASHI": 41917,
+    "v2ray_Mammad": 2593,
+    "levconnect": 2102,
+    "iranping24": 2371,
     "Configvibes": 2032,
-    "JOFAVPN": 955,
-    "VConfing": 3375,
+    "JOFAVPN": 958,
+    "VConfing": 3377,
     "appsooner": 4717,
     "SkyLiink_vpn": 7408,
     "haj_config": 207,
     "V2RAYROZ": 24022,
-    "PasargadConfig": 1743,
-    "irannodes": 187,
-    "V2RAYNG_Outline_VPN": 12311,
+    "PasargadConfig": 1744,
+    "irannodes": 192,
+    "V2RAYNG_Outline_VPN": 12312,
     "yorpeanel": 160,
     "Nexus_Panell": 1970,
     "JKVPN": 17628
   },
   "recent_downloads": [
-    {
-      "published_at": "2026-11-22T12:05:09+00:00",
-      "channel": "v2ray_Mammad",
-      "message_id": 2581,
-      "file": "v2ray_Mammad_2581_سرعتییی و گودرتییی.npvt",
-      "sha256": "329f409dffadfa8058bc3b54dfd5d206fb1e7d0d53f36d28dae4cc55e8ee1af0"
-    },
-    {
-      "published_at": "2026-11-22T12:51:13+00:00",
-      "channel": "v2ray_Mammad",
-      "message_id": 2582,
-      "file": "v2ray_Mammad_2582_سرعتیییی این یکی فرق داره.npvt",
-      "sha256": "ebe89467ab9e5fc4751fa98dc784cc9ec1c6a7cb788f67dab1e8cd07449b4611"
-    },
     {
       "published_at": "2026-11-22T15:56:07+00:00",
       "channel": "v2ray_Mammad",
@@ -48,11 +34,11 @@
       "sha256": "90fca72da72c57a695712a0ec6f8c05721717fca17cb7cbab8fcda3667c965b0"
     },
     {
-      "published_at": "2026-11-22T11:32:49+00:00",
-      "channel": "Configvibes",
-      "message_id": 2031,
-      "file": "Configvibes_2031__𝜗ৎ Configvibes_.npvt",
-      "sha256": "ff590aef8787811ed04f1c0656ef1ac245a95b09b61b6783b896af65f1edf5e4"
+      "published_at": "2026-11-23T10:35:58+00:00",
+      "channel": "v2ray_Mammad",
+      "message_id": 2593,
+      "file": "v2ray_Mammad_2593_14سرور پرسرعتتت همه نت.npvt",
+      "sha256": "e62b4d4adb9fda10a934c9b23809a6cd29e510f34464eb006a474e8cb83b6579"
     }
   ]
 }
