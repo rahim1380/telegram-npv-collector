@@ -484,7 +484,7 @@
   },
   "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#%40levconnect": {
     "first_seen": "2026-11-21T19:21:29+00:00",
-    "last_seen": "2026-11-21T19:21:29+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
     "channels": [
       "levconnect"
     ]
@@ -2755,6 +2755,167 @@
     "last_seen": "2026-11-23T08:30:11+00:00",
     "channels": [
       "V2RAYROZ"
+    ]
+  },
+  "vless://8c0676ea-ac9f-4de5-9c6f-b0de31e38704@83.141.70.167:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ch.primarymaster.online&fp=firefox&pbk=rS6r3PZQHZp31tnOmJAuCme4xJgsak_JsZ5hTPwpuiY&sid=8b8dd8a1c0c468d3&type=tcp&headerType=none#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?mode=gun&security=reality&encryption=none&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "trojan://6-FrR5YsfjfyNp6AIFZgcQ@ipfast.kingmna.com:443?type=ws&security=tls&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&sni=cdn.akamai.steamstatic.com&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "trojan://SPARTAN_YT@199.232.78.160:443?path=%2F---%40SPARTAN_YT---%40SPARTAN_YT%2F---%40SPARTAN_YT---%40SPARTAN_YT%2F---%40SPARTAN_YT---%40SPARTAN_YT%2FD-e2%40SPARTAN_YT---%40SPARTAN_YT%2F---%40SPARTAN_YT---%40SPARTAN_YT%2F---%40SPARTAN_YT---%40SPARTAN_YT&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---SPARTAN_YT-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vmess://eyJhZGQiOiAibGV2aWtvLWF0MzUzMC5zaG9waW5nZ2dnLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEyNzAiLCAicHMiOiAi8J-HpvCfh7kgQFYySFVCSVIgfCDaqdin2YbZgduM2q8g2LHZiNiy2KfZhtmHIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://b87e0fe3-2eaa-4714-b717-ae3204fc1846@leviko-tr0756.shopingggg.ir:54005?security=reality&encryption=none&pbk=k62XkGNgUzt6z6NjQrM-zjpuUei3G62_AAIzlgxHaEA&host=technolife.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=ed69a523b5ab3e#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?path=%2F%3FTELEGRAM--i10VPN%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vmess://eyJ2IjogIjIiLCAicHMiOiAi8J-HrfCfh7AgQFYySFVCSVIgfCDaqdin2YbZgduM2q8g2LHZiNiy2KfZhtmHIiwgImFkZCI6ICJwZG12NC54aWFveWFuLmlvIiwgInBvcnQiOiAxNjYzMiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAiaG9zdCI6ICJmOTMwOWNjODg2MzdjMjZmNTUyYTFhNjRmYjMxMWNhZS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgInBhdGgiOiAiLyJ9#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://30ed2f7b-35c1-49ca-8d9f-687983382360@199.232.78.160:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN&security=tls&alpn=h2&encryption=none&insecure=0&host=fcdsxalkkkp.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=www.firefox.com#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@leviko-de2135.shopingggg.ir:443?security=reality&encryption=none&pbk=O35Np_ugrc3mUDIEO4UnViEwRobM2r9kqQCdcdCHjEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p1.xvanta.online&sid=cb33163cf9c03ab1#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:16+00:00",
+    "last_seen": "2026-11-23T09:17:16+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://849e5ed7-90da-487e-a044-c9052563895c@109.176.202.177:443?encryption=none&security=reality&type=tcp&headerType=none&sni=delivery.mp.microsoft.com&fp=firefox&pbk=4YuPm6_B_Aa9Um70LtKFnVfA_F8uiwwmXChE_pyXjX8&sid=ec77cd113fc57140&allowInsecure=1#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:49+00:00",
+    "last_seen": "2026-11-23T09:17:49+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:49+00:00",
+    "last_seen": "2026-11-23T09:17:49+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vmess://eyJhZGQiOiAiMTc5LjQzLjE0MC4yNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYTkyNWE5OGMtYWQ3YS00MGM2LTlmZGYtMTMwYTFkZTY5NDE2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8zeCIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDI4MzEiLCAicHMiOiAi8J-HqPCfh60gQFYySFVCSVIgfCDaqdin2YbZgduM2q8g2LHZiNiy2KfZhtmHIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIiwgInZjbiI6ICIifQ#%40levconnect": {
+    "first_seen": "2026-11-23T09:17:49+00:00",
+    "last_seen": "2026-11-23T09:17:49+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%40levconnect": {
+    "first_seen": "2026-11-23T09:18:03+00:00",
+    "last_seen": "2026-11-23T09:18:03+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bzhvdE9PdVR1aTVuNExrd0Z5ZVlpR1NndkMxeFRTNg@dns22.m3hrzd.ir:1348#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.29.80:22222?encryption=none&security=none&type=tcp#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://90c78e35-bd62-41a8-9cfb-6b595e2f2809@session.ashkanmall.ir:2053?security=reality&encryption=mlkem768x25519plus.native.0rtt.9lDMQVlmfElnHIncrd21V6NHo0RKY6Yh0XrCvrFoSSY&pbk=AvRHzsPPmlOvqFRHdNgQwc5jVNNgpqYVwQFwiZA67Vw&headerType=&fp=chrome&spx=%2F1332f5b88df6d84&type=tcp&sni=aparat.com&sid=acacca77aeea8a8e#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@145.79.177.201:8388#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
+    ]
+  },
+  "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.202.241:22223?encryption=none&security=none&type=tcp#%40levconnect": {
+    "first_seen": "2026-11-23T09:23:43+00:00",
+    "last_seen": "2026-11-23T09:23:43+00:00",
+    "channels": [
+      "levconnect"
     ]
   }
 }
