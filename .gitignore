@@ -1,0 +1,9 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+*.session
+session_string.txt
+npvt_decoded.txt
+
+npvt_tables/
