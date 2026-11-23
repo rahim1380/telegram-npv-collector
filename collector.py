@@ -3,6 +3,7 @@ import json
 import re
 import time
 from pathlib import Path
+from urllib.parse import quote
 from datetime import datetime, timedelta, timezone
 
 import requests
@@ -84,7 +85,26 @@ def extract_configs(text):
             found.add(config)
     return found
 
+def rename_config(config, index):
+    """Change display name without changing connection settings."""
+    name = f"@NPVT_VPN {index}"
 
+    if config.lower().startswith("vmess://"):
+        payload_text = config[len("vmess://"):].split("#", 1)[0]
+        try:
+            padded = payload_text + "=" * (-len(payload_text) % 4)
+            payload = json.loads(base64.urlsafe_b64decode(padded).decode("utf-8"))
+            if isinstance(payload, dict):
+                payload["ps"] = name
+                encoded = base64.b64encode(
+                    json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+                ).decode("ascii")
+                return "vmess://" + encoded
+        except (ValueError, UnicodeDecodeError, json.JSONDecodeError):
+            pass
+
+    uri_without_fragment = config.split("#", 1)[0]
+    return uri_without_fragment + "#" + quote(name, safe="")
 def collect_channel(channel, cutoff):
     url = f"https://t.me/s/{channel}"
     collected = {}
@@ -229,7 +249,8 @@ def main():
                 active_configs.append(config)
                 npvt_active += 1
 
-    content = "\n".join(active_configs)
+    named_configs = [rename_config(config, index) for index, config in enumerate(active_configs, start=1)]
+    content = "\n".join(named_configs)
     encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
     OUTPUT_PATH.write_text(encoded, encoding="utf-8")
 
