@@ -120,8 +120,16 @@ def main():
             # Recent archive: only files published within the last 24 hours.
             if published_at is not None:
                 existing = recent_archive.get(config)
+                existing_published_at = (
+                    parse_date(existing.get("published_at"))
+                    if isinstance(existing, dict)
+                    else None
+                )
 
-                if existing is None or published_at > existing["published_at"]:
+                if (
+                    existing_published_at is None
+                    or published_at > existing_published_at
+                ):
                     recent_archive[config] = {
                         "source_file": path.name,
                         "published_at": published_at.isoformat()
