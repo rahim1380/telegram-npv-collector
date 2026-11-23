@@ -2094,7 +2094,7 @@
   },
   "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@9.247.23.209:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
     "first_seen": "2026-11-22T15:12:41+00:00",
-    "last_seen": "2026-11-22T15:12:41+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
     "channels": [
       "Nexus_Panell"
     ]
@@ -2241,7 +2241,7 @@
   },
   "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmhxMWtkc3V5eTU1aW5x@51.77.144.182:8080#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
     "first_seen": "2026-11-22T17:42:45+00:00",
-    "last_seen": "2026-11-22T17:42:45+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
     "channels": [
       "Nexus_Panell"
     ]
@@ -4162,6 +4162,55 @@
     "last_seen": "2026-11-23T17:22:47+00:00",
     "channels": [
       "PasargadConfig"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpER2p0VjYzYVBXM0U@67.220.73.247:443#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vmess://eyJhZGQiOiIxNjIuMjUxLjYxLjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiQE5leHVzX1BhbmVsbCDahtmG2YQg2KrZhNqv2LHYp9mFIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9": {
+    "first_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vmess://eyJhZGQiOiIxODguMTE0Ljk3LjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy53aW5kb3dzc2VhcmNodG9vbHMuY29tIiwiaWQiOiJiYTExMTZlMi04YzJmLTRlM2QtOGU1MC1jOTU0MzYwY2Y5NzAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJATmV4dXNfUGFuZWxsINqG2YbZhCDYqtmE2q/Ysdin2YUiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LndpbmRvd3NzZWFyY2h0b29scy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==": {
+    "first_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@40.160.86.43:8388#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vmess://eyJhZGQiOiIxNzIuNjcuMTU2LjEyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmdwdGNsb3VkYWkuY29tIiwiaWQiOiJlNzBhNWI3MC1mNjNjLTQ0NTAtYWY4Yi05NDk5MGNkZjgwYzAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGg/VEVMRUdSQU0tLUIySHViLUIySHViLUIySHViLUIySHViLUIySHViLUIySHViLUIySHViLUIySHViLUIySHViLUIySHViLS1URUxFR1JBTSIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkBOZXh1c19QYW5lbGwg2obZhtmEINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==": {
+    "first_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-23T18:03:24+00:00",
+    "channels": [
+      "Nexus_Panell"
     ]
   }
 }
