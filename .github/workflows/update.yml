@@ -3,8 +3,13 @@ name: Automatic Telegram Config Update
 on:
   workflow_dispatch:
 
+  push:
+    paths:
+      - "npvt_inputs/**"
+
   schedule:
     - cron: "*/5 * * * *"
+
 permissions:
   contents: write
 
@@ -24,10 +29,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run collector
+      - name: Import NPVT files
+        run: python npvt_importer.py
+
+      - name: Run Telegram collector and build merged subscription
         run: python collector.py
 
-      - name: Save subscription and archive
+      - name: Save subscription and archives
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -35,6 +43,7 @@ jobs:
           git add subscription.txt
           git add data/archive.json
           git add data/blacklist.txt
+          git add data/npvt_configs.json
 
-          git diff --cached --quiet || git commit -m "Automatic VPN config update"
+          git diff --cached --quiet || git commit -m "Update merged VPN subscription"
           git push
