@@ -46,12 +46,30 @@ jobs:
       - name: Run Telegram collector and build merged subscription
         run: python collector.py
 
+      - name: Install Xray
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip
+          curl -fsSL -o /tmp/Xray-linux-64.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          unzip -o /tmp/Xray-linux-64.zip -d /tmp/xray
+          sudo install -m 0755 /tmp/xray/xray /usr/local/bin/xray
+          xray version
+
+      - name: Test configs and keep working ones
+        env:
+          XRAY_BIN: /usr/local/bin/xray
+        run: python run_recent_tests.py
+
       - name: Save subscription and archives
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add subscription.txt
+          git add .github/workflows/update.yml
+          git add requirements.txt
+          git add run_recent_tests.py
+          git add config_tester.py
           git add data/archive.json
           git add data/blacklist.txt
           git add data/npvt_configs.json
