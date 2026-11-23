@@ -1422,7 +1422,7 @@
   },
   "vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#%40VConfing": {
     "first_seen": "2026-11-21T23:48:17+00:00",
-    "last_seen": "2026-11-21T23:48:17+00:00",
+    "last_seen": "2026-11-22T23:10:09+00:00",
     "channels": [
       "VConfing"
     ]
@@ -1436,7 +1436,7 @@
   },
   "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?path=%2Fstream%2Fupdates%2Fa66d7902%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=neplay603.gangtype.com&fp=firefox&type=ws&allowInsecure=0&sni=neplay603.gangtype.com#VCONFING%20": {
     "first_seen": "2026-11-21T23:48:17+00:00",
-    "last_seen": "2026-11-21T23:48:17+00:00",
+    "last_seen": "2026-11-22T12:38:33+00:00",
     "channels": [
       "VConfing"
     ]
