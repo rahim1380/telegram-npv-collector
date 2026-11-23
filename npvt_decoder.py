@@ -92,8 +92,118 @@ def parse_token(text):
         return base64.urlsafe_b64decode(padded)
 
 
+def profile_to_link(item):
+    profile = item.get("v2rayProfile")
+    if not isinstance(profile, dict):
+        return None
+
+    raw_json = profile.get("v2rayJson")
+    if raw_json:
+        try:
+            obj = json.loads(raw_json) if isinstance(raw_json, str) else raw_json
+            links = list(outbound_links(obj)) if isinstance(obj, dict) else []
+            if links:
+                return links[0]
+        except (TypeError, ValueError):
+            pass
+
+    server = str(profile.get("server") or "").strip()
+    port = str(profile.get("serverPort") or "").strip()
+    if not server or not port:
+        address = str(item.get("address") or "").strip()
+        if ":" in address:
+            server, port = address.rsplit(":", 1)
+    if not server or not port:
+        return None
+
+    name = str(item.get("name") or profile.get("remarks") or "NPVT")
+    config_type = str(profile.get("configType") or "")
+    password = str(profile.get("password") or "")
+    network = str(profile.get("network") or "tcp").lower()
+    security = str(profile.get("security") or "none").lower()
+
+    params = {"type": network, "security": security}
+    if profile.get("sni"):
+        params["sni"] = str(profile["sni"])
+    if profile.get("fingerPrint"):
+        params["fp"] = str(profile["fingerPrint"])
+    if profile.get("alpn"):
+        params["alpn"] = ",".join(profile["alpn"]) if isinstance(profile["alpn"], list) else str(profile["alpn"])
+    if profile.get("insecure") is True:
+        params["allowInsecure"] = "1"
+
+    if security == "reality":
+        if profile.get("publicKey"):
+            params["pbk"] = str(profile["publicKey"])
+        if profile.get("shortId"):
+            params["sid"] = str(profile["shortId"])
+        if profile.get("spiderX"):
+            params["spx"] = str(profile["spiderX"])
+
+    if network in ("ws", "websocket"):
+        params["type"] = "ws"
+        params["path"] = str(profile.get("path") or "/")
+        if profile.get("host"):
+            params["host"] = str(profile["host"])
+    elif network == "grpc":
+        if profile.get("serviceName"):
+            params["serviceName"] = str(profile["serviceName"])
+        if profile.get("mode"):
+            params["mode"] = str(profile["mode"])
+    elif network == "xhttp":
+        if profile.get("mode"):
+            params["mode"] = str(profile["mode"])
+
+    encoded_name = quote(name, safe="")
+    target = hostport(server, port)
+
+    # NPVT configType values: 1=VMess, 3=Shadowsocks, 5=VLESS, 6=Trojan.
+    if config_type == "3":
+        method = str(profile.get("method") or "").strip()
+        if not method or not password:
+            return None
+        auth = base64.b64encode(f"{method}:{password}".encode()).decode().rstrip("=")
+        return f"ss://{auth}@{target}#{encoded_name}"
+
+    if config_type == "5":
+        if not password:
+            return None
+        params["encryption"] = str(profile.get("encryption") or "none")
+        if profile.get("flow"):
+            params["flow"] = str(profile["flow"])
+        return f"vless://{quote(password, safe='')}@{target}?{qencode(params)}#{encoded_name}"
+
+    if config_type == "6":
+        if not password:
+            return None
+        return f"trojan://{quote(password, safe='')}@{target}?{qencode(params)}#{encoded_name}"
+
+    if config_type == "1":
+        if not password:
+            return None
+        vmess = {
+            "v": "2", "ps": name, "add": server, "port": port,
+            "id": password, "aid": str(profile.get("alterId") or 0),
+            "scy": str(profile.get("method") or "auto"),
+            "net": network, "type": str(profile.get("headerType") or "none"),
+            "host": str(profile.get("host") or ""),
+            "path": str(profile.get("path") or ""),
+            "tls": "tls" if security in ("tls", "reality") else "",
+            "sni": str(profile.get("sni") or ""),
+            "fp": str(profile.get("fingerPrint") or ""),
+        }
+        token = base64.b64encode(json.dumps(vmess, separators=(",", ":"), ensure_ascii=False).encode()).decode()
+        return "vmess://" + token
+
+    return None
+
+
 def walk_json(value):
     if isinstance(value, dict):
+        link = profile_to_link(value)
+        if link:
+            yield link
+
         raw = value.get("v2rayJson")
         if isinstance(raw, str):
             try:
@@ -105,12 +215,11 @@ def walk_json(value):
         if isinstance(value.get("outbounds"), list):
             yield from outbound_links(value)
         for k, v in value.items():
-            if k not in ("v2rayJson", "outbounds"):
+            if k not in ("v2rayJson", "outbounds", "v2rayProfile"):
                 yield from walk_json(v)
     elif isinstance(value, list):
         for v in value:
             yield from walk_json(v)
-
 
 def qencode(params):
     return urlencode(sorted(params.items()), doseq=True, quote_via=quote, safe="~")
