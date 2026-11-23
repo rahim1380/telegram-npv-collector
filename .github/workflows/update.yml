@@ -8,7 +8,7 @@ on:
       - "npvt_inputs/**"
 
   schedule:
-    - cron: "*/12 * * * *"
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
