@@ -89,7 +89,7 @@ def test_one(link):
 
             proxy = f"socks5h://127.0.0.1:{port}"
             response = requests.get(
-                "https://www.gstatic.com/generate_204",
+                "https://www.instagram.com/",
                 proxies={"http": proxy, "https": proxy},
                 timeout=15,
                 allow_redirects=True,
