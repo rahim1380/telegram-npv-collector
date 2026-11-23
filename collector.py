@@ -209,13 +209,25 @@ def main():
         if last_seen and cutoff <= last_seen <= now:
             active_configs.append(config)
 
-    # NPVT imports are persistent and are merged with the rolling 24-hour Telegram set.
+    # Only NPVT configs imported during the last 24 hours enter the subscription.
+    # The permanent NPVT archive remains unchanged.
     npvt_archive = load_json(Path("data/npvt_configs.json"), {})
+    npvt_active = 0
+
     if isinstance(npvt_archive, dict):
-        for config in npvt_archive:
-            if config not in blacklist and config not in active_configs:
-                if re.match(r"^(vless|vmess|trojan|ss)://", config, re.IGNORECASE):
-                    active_configs.append(config)
+        for config, record in npvt_archive.items():
+            if config in blacklist or config in active_configs:
+                continue
+            if not isinstance(record, dict):
+                continue
+
+            imported_at = parse_date(record.get("imported_at", ""))
+            if not imported_at or not (cutoff <= imported_at <= now):
+                continue
+
+            if re.match(r"^(vless|vmess|trojan|ss)://", config, re.IGNORECASE):
+                active_configs.append(config)
+                npvt_active += 1
 
     content = "\n".join(active_configs)
     encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
@@ -224,9 +236,11 @@ def main():
     print("--------------------------------")
     print(f"Newly discovered (Telegram): {len(discovered)}")
     print(f"Total Telegram archived: {len(archive)}")
-    print(f"NPVT archived: {len(npvt_archive) if isinstance(npvt_archive, dict) else 0}")
+    print(f"NPVT archived (permanent): {len(npvt_archive) if isinstance(npvt_archive, dict) else 0}")
+    print(f"NPVT active (last 24h): {npvt_active}")
+    print(f"Telegram active (last 24h): {len(active_configs) - npvt_active}")
     print(f"Blacklisted: {len(blacklist)}")
-    print(f"Active configs: {len(active_configs)}")
+    print(f"Active configs (total): {len(active_configs)}")
     print("Merged subscription updated successfully")
     print("--------------------------------")
 
