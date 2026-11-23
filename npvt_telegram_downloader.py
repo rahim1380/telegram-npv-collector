@@ -70,20 +70,47 @@ def sha256_file(path):
 
 
 def keep_recent_downloads(items):
-    cutoff = utc_now() - timedelta(hours=RECENT_HOURS)
+    now = utc_now()
+    cutoff = now - timedelta(hours=RECENT_HOURS)
     kept = []
+
     for item in items:
         if not isinstance(item, dict):
             continue
         try:
             timestamp = datetime.fromisoformat(
-                item["downloaded_at"].replace("Z", "+00:00")
+                item["published_at"].replace("Z", "+00:00")
             )
-            if timestamp >= cutoff:
+            if timestamp.tzinfo is None:
+                timestamp = timestamp.replace(tzinfo=timezone.utc)
+            timestamp = timestamp.astimezone(timezone.utc)
+
+            if cutoff <= timestamp <= now:
                 kept.append(item)
         except (KeyError, TypeError, ValueError):
             continue
+
     return kept
+
+
+def add_recent_event(recent, published_at, channel, message_id, filename, digest):
+    event = {
+        "published_at": published_at.isoformat(),
+        "channel": channel,
+        "message_id": message_id,
+        "file": filename,
+        "sha256": digest,
+    }
+
+    for index, old in enumerate(recent):
+        if (
+            old.get("channel") == channel
+            and old.get("message_id") == message_id
+        ):
+            recent[index] = event
+            return
+
+    recent.append(event)
 
 
 async def scan_channel(client, channel, state, hashes, recent):
@@ -93,19 +120,36 @@ async def scan_channel(client, channel, state, hashes, recent):
     scanned = 0
     downloaded = 0
 
-    if previous_id:
-        messages = client.iter_messages(entity, min_id=previous_id, reverse=True)
-    else:
-        # Initial run checks the latest 1,000 posts; subsequent runs only check newer posts.
-        messages = client.iter_messages(entity, limit=FIRST_SCAN_LIMIT)
+    now = utc_now()
+    cutoff = now - timedelta(hours=RECENT_HOURS)
+
+    # Re-scan all messages from the last 24 hours on every run.
+    messages = client.iter_messages(
+        entity,
+        offset_date=cutoff,
+        reverse=True,
+    )
 
     async for message in messages:
         scanned += 1
+
         if message.id and message.id > newest_id:
             newest_id = message.id
 
+        if not message.date:
+            continue
+
+        published_at = message.date
+        if published_at.tzinfo is None:
+            published_at = published_at.replace(tzinfo=timezone.utc)
+        published_at = published_at.astimezone(timezone.utc)
+
+        if not (cutoff <= published_at <= now):
+            continue
+
         media_file = getattr(message, "file", None)
         original_name = getattr(media_file, "name", None) if media_file else None
+
         if not original_name or not original_name.lower().endswith(".npvt"):
             continue
 
@@ -122,6 +166,10 @@ async def scan_channel(client, channel, state, hashes, recent):
                 "message_id": message.id,
                 "first_seen": utc_now().isoformat(),
             })
+            add_recent_event(
+                recent, published_at, channel, message.id,
+                final_path.name, digest
+            )
             continue
 
         fd, temp_name = tempfile.mkstemp(
@@ -139,36 +187,44 @@ async def scan_channel(client, channel, state, hashes, recent):
                 )
 
             digest = sha256_file(temp_path)
+
             if digest in hashes:
+                existing_file = hashes[digest].get("file", final_path.name)
+                add_recent_event(
+                    recent, published_at, channel, message.id,
+                    existing_file, digest
+                )
                 print(f"[SKIP] {channel}/{message.id}: duplicate SHA-256")
                 continue
 
             os.replace(temp_path, final_path)
+
             hashes[digest] = {
                 "file": final_path.name,
                 "channel": channel,
                 "message_id": message.id,
                 "first_seen": utc_now().isoformat(),
             }
-            recent.append({
-                "downloaded_at": utc_now().isoformat(),
-                "channel": channel,
-                "message_id": message.id,
-                "file": final_path.name,
-                "sha256": digest,
-            })
+
+            add_recent_event(
+                recent, published_at, channel, message.id,
+                final_path.name, digest
+            )
+
             downloaded += 1
             print(f"[DOWNLOADED] {channel}/{message.id}: {final_path.name}")
+
         finally:
             if temp_path.exists():
                 temp_path.unlink()
 
-    # Persist the newest message ID only after the channel scan completes.
     state.setdefault("channels", {})[channel] = newest_id
+
     print(
         f"[INFO] {channel}: scanned={scanned}, "
         f"downloaded={downloaded}, latest_id={newest_id}"
     )
+
     return downloaded
 
 

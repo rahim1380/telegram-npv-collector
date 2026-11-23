@@ -209,20 +209,20 @@ def main():
         if last_seen and cutoff <= last_seen <= now:
             active_configs.append(config)
 
-    # Only NPVT configs imported during the last 24 hours enter the subscription.
-    # The permanent NPVT archive remains unchanged.
+    # Permanent NPVT archive is retained separately.
     npvt_archive = load_json(Path("data/npvt_configs.json"), {})
+    npvt_recent_archive = load_json(Path("data/npvt_recent_configs.json"), {})
     npvt_active = 0
 
-    if isinstance(npvt_archive, dict):
-        for config, record in npvt_archive.items():
+    if isinstance(npvt_recent_archive, dict):
+        for config, record in npvt_recent_archive.items():
             if config in blacklist or config in active_configs:
                 continue
             if not isinstance(record, dict):
                 continue
 
-            imported_at = parse_date(record.get("imported_at", ""))
-            if not imported_at or not (cutoff <= imported_at <= now):
+            published_at = parse_date(record.get("published_at", ""))
+            if not published_at or not (cutoff <= published_at <= now):
                 continue
 
             if re.match(r"^(vless|vmess|trojan|ss)://", config, re.IGNORECASE):

@@ -55,6 +55,7 @@ jobs:
           git add data/archive.json
           git add data/blacklist.txt
           git add data/npvt_configs.json
+          git add data/npvt_recent_configs.json
           git add data/npvt_telegram_state.json
           git add data/npvt_download_hashes.json
           git add npvt_inputs/
