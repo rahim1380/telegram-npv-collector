@@ -91,7 +91,7 @@ def test_one(link):
             response = requests.get(
                 "https://www.instagram.com/",
                 proxies={"http": proxy, "https": proxy},
-                timeout=15,
+                timeout=5,
                 allow_redirects=True,
             )
 
