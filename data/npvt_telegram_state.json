@@ -1,31 +1,24 @@
 {
   "channels": {
-    "MARAMBASHI": 41919,
+    "MARAMBASHI": 41920,
     "v2ray_Mammad": 2594,
-    "levconnect": 2106,
-    "iranping24": 2372,
+    "levconnect": 2110,
+    "iranping24": 2373,
     "Configvibes": 2032,
     "JOFAVPN": 958,
     "VConfing": 3377,
-    "appsooner": 4717,
+    "appsooner": 4718,
     "SkyLiink_vpn": 7408,
     "haj_config": 207,
-    "V2RAYROZ": 24022,
-    "PasargadConfig": 1746,
+    "V2RAYROZ": 24029,
+    "PasargadConfig": 1747,
     "irannodes": 192,
-    "V2RAYNG_Outline_VPN": 12312,
+    "V2RAYNG_Outline_VPN": 12313,
     "yorpeanel": 160,
-    "Nexus_Panell": 1972,
+    "Nexus_Panell": 1974,
     "JKVPN": 17628
   },
   "recent_downloads": [
-    {
-      "published_at": "2026-11-22T15:56:07+00:00",
-      "channel": "v2ray_Mammad",
-      "message_id": 2583,
-      "file": "v2ray_Mammad_2583_فول اختصاصی سرعتیی همه خطوط.npvt",
-      "sha256": "27d361edbb4824070401193bea4384fac09fa569bec486efc480427303c24c54"
-    },
     {
       "published_at": "2026-11-22T19:43:43+00:00",
       "channel": "v2ray_Mammad",
