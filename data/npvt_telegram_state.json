@@ -4,7 +4,7 @@
     "v2ray_Mammad": 2605,
     "levconnect": 2113,
     "iranping24": 2381,
-    "Configvibes": 2034,
+    "Configvibes": 2035,
     "JOFAVPN": 965,
     "VConfing": 3379,
     "appsooner": 4719,
@@ -43,6 +43,13 @@
       "message_id": 2605,
       "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
       "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
+    },
+    {
+      "published_at": "2026-11-24T13:34:44+00:00",
+      "channel": "Configvibes",
+      "message_id": 2035,
+      "file": "Configvibes_2035__𝜗ৎ Configvibes.npvt",
+      "sha256": "feb9728255831a238ab335922756c24d1d394b4880e96100de273343e868ca0e"
     }
   ]
 }

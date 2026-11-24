@@ -3354,7 +3354,7 @@
   },
   "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@200.102.179.179:8388#%40VConfing": {
     "first_seen": "2026-11-23T13:41:44+00:00",
-    "last_seen": "2026-11-23T13:41:44+00:00",
+    "last_seen": "2026-11-24T13:22:01+00:00",
     "channels": [
       "VConfing"
     ]
@@ -3368,7 +3368,7 @@
   },
   "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.56:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40VConfing": {
     "first_seen": "2026-11-23T13:41:44+00:00",
-    "last_seen": "2026-11-23T13:41:44+00:00",
+    "last_seen": "2026-11-24T00:29:47+00:00",
     "channels": [
       "VConfing"
     ]
