@@ -5227,5 +5227,12 @@
     "channels": [
       "iranping24"
     ]
+  },
+  "vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@172.67.139.189:443?path=%2F700gvl&security=tls&encryption=none&host=fr-free.fastestrelay.com&fp=qq&type=ws&sni=fr-free.fastestrelay.com": {
+    "first_seen": "2026-11-24T16:31:50+00:00",
+    "last_seen": "2026-11-24T16:31:50+00:00",
+    "channels": [
+      "V2RAYROZ"
+    ]
   }
 }
