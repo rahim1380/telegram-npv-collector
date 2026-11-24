@@ -14,11 +14,14 @@ from telethon.errors import FloodWaitError
 from telethon.sessions import StringSession
 
 CHANNELS = [
-    "MARAMBASHI", "v2ray_Mammad", "levconnect", "iranping24",
+    "MARAMBASHI", "v2ray_Mammad", "iranping24",
     "Configvibes", "JOFAVPN", "VConfing", "appsooner",
     "SkyLiink_vpn", "haj_config", "V2RAYROZ", "PasargadConfig",
     "irannodes", "V2RAYNG_Outline_VPN", "yorpeanel",
-    "Nexus_Panell", "JKVPN",
+    "Nexus_Panell", "JKVPN","CloudVPNchannel",
+"NUFiLTER",
+"PLANB_NET",
+"xxnetwork",
 ]
 
 INPUT_DIR = Path("npvt_inputs")
