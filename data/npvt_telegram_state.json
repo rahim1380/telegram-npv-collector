@@ -1,35 +1,28 @@
 {
   "channels": {
-    "MARAMBASHI": 41939,
-    "v2ray_Mammad": 2605,
+    "MARAMBASHI": 41943,
+    "v2ray_Mammad": 2612,
     "levconnect": 2113,
-    "iranping24": 2387,
+    "iranping24": 2394,
     "Configvibes": 2035,
-    "JOFAVPN": 968,
+    "JOFAVPN": 970,
     "VConfing": 3379,
     "appsooner": 4719,
     "SkyLiink_vpn": 7410,
     "haj_config": 208,
     "V2RAYROZ": 24037,
-    "PasargadConfig": 1749,
+    "PasargadConfig": 1750,
     "irannodes": 200,
-    "V2RAYNG_Outline_VPN": 12316,
-    "yorpeanel": 162,
-    "Nexus_Panell": 1981,
+    "V2RAYNG_Outline_VPN": 12317,
+    "yorpeanel": 163,
+    "Nexus_Panell": 1983,
     "JKVPN": 17630,
     "CloudVPNchannel": 9218,
     "NUFiLTER": 9050,
     "PLANB_NET": 3793,
-    "xxnetwork": 331365
+    "xxnetwork": 331369
   },
   "recent_downloads": [
-    {
-      "published_at": "2026-11-23T19:45:52+00:00",
-      "channel": "v2ray_Mammad",
-      "message_id": 2601,
-      "file": "v2ray_Mammad_2601_پرسرعتتت همه نت تاصبح (2).npvt",
-      "sha256": "63da972d7f783f7eb1ff20e967f21bdb176a36f41bb0e15c8a9da5bc7314c8aa"
-    },
     {
       "published_at": "2026-11-24T08:32:45+00:00",
       "channel": "v2ray_Mammad",
@@ -50,6 +43,13 @@
       "message_id": 2035,
       "file": "Configvibes_2035__𝜗ৎ Configvibes.npvt",
       "sha256": "feb9728255831a238ab335922756c24d1d394b4880e96100de273343e868ca0e"
+    },
+    {
+      "published_at": "2026-11-24T19:18:40+00:00",
+      "channel": "v2ray_Mammad",
+      "message_id": 2612,
+      "file": "v2ray_Mammad_2612_سرعتیییی همه نت تاصبح.npvt",
+      "sha256": "a6a835d93c441e31ae7ecd40f296a78fc5eac2ccf29340240937a6e76b83359f"
     }
   ]
 }

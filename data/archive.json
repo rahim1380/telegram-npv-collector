@@ -4166,7 +4166,7 @@
   },
   "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpER2p0VjYzYVBXM0U@67.220.73.247:443#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
     "first_seen": "2026-11-23T18:03:24+00:00",
-    "last_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-24T19:18:30+00:00",
     "channels": [
       "Nexus_Panell"
     ]
@@ -4187,7 +4187,7 @@
   },
   "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
     "first_seen": "2026-11-23T18:03:24+00:00",
-    "last_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-24T19:18:30+00:00",
     "channels": [
       "Nexus_Panell"
     ]
@@ -4201,7 +4201,7 @@
   },
   "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@40.160.86.43:8388#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
     "first_seen": "2026-11-23T18:03:24+00:00",
-    "last_seen": "2026-11-23T18:03:24+00:00",
+    "last_seen": "2026-11-24T09:39:18+00:00",
     "channels": [
       "Nexus_Panell"
     ]
@@ -4264,7 +4264,7 @@
   },
   "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9": {
     "first_seen": "2026-11-23T20:01:39+00:00",
-    "last_seen": "2026-11-23T20:01:39+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
     "channels": [
       "MARAMBASHI"
     ]
@@ -5390,6 +5390,167 @@
     ]
   },
   "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2003": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9%20": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://a8e5585a-6020-4649-a364-c1ebf3a40548@193.111.248.54:443?security=reality&encryption=none&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=tagderdeutscheneinheit.de&sid=6f0091ebe3029ebb#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://082ff568-e0f1-42af-ad7c-2c46adde1273@45.86.158.53:443?security=reality&encryption=none&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=4c980ft.fi15.h1clayd.click&sid=597e1c279d224774#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?security=reality&encryption=none&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&host=deepl.com%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#Tel%40MARAMBASHI%20%F0%9F%92%99": {
+    "first_seen": "2026-11-24T20:14:06+00:00",
+    "last_seen": "2026-11-24T20:14:06+00:00",
+    "channels": [
+      "MARAMBASHI"
+    ]
+  },
+  "vless://3613b3f8-4430-4e24-8d62-5c0d6c47214e@ipfast.kingmna.com:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24…": {
+    "first_seen": "2026-11-24T19:41:22+00:00",
+    "last_seen": "2026-11-24T19:41:22+00:00",
+    "channels": [
+      "iranping24"
+    ]
+  },
+  "vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#yorpeanel%F0%9F%87%A9%F0%9F%87%AA": {
+    "first_seen": "2026-11-24T18:58:51+00:00",
+    "last_seen": "2026-11-24T18:58:51+00:00",
+    "channels": [
+      "yorpeanel"
+    ]
+  },
+  "vless://03fcc618-b93d-6796-6aed-8a38c975d581@216.106.185.158:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-24T19:18:30+00:00",
+    "last_seen": "2026-11-24T19:18:30+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&alpn=channel&encryption=none&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0990d22f#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-24T19:18:30+00:00",
+    "last_seen": "2026-11-24T19:18:30+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?path=%2Fproxyip&security=tls&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#%40Nexus_Panell%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85": {
+    "first_seen": "2026-11-24T19:18:30+00:00",
+    "last_seen": "2026-11-24T19:18:30+00:00",
+    "channels": [
+      "Nexus_Panell"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2007": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "vmess://eyJhZGQiOiI2Ny4yMjAuODUuNDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IlRlbGVncmFtIPCfkYnwn4+8IEBwbGFuQl9uZXQgIOKAoiAwOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?path=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2004": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2003": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2005": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2002": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2006": {
+    "first_seen": "2026-11-24T17:30:06+00:00",
+    "last_seen": "2026-11-24T17:30:06+00:00",
+    "channels": [
+      "PLANB_NET"
+    ]
+  },
+  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Telegram%20%F0%9F%91%89%F0%9F%8F%BC%20%40planB_net%20%20%E2%80%A2%2001": {
     "first_seen": "2026-11-24T17:30:06+00:00",
     "last_seen": "2026-11-24T17:30:06+00:00",
     "channels": [
