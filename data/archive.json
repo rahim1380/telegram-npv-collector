@@ -1541,7 +1541,7 @@
   },
   "vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#%40V2RAYROZ%20%F0%9F%8D%81": {
     "first_seen": "2026-11-22T08:26:37+00:00",
-    "last_seen": "2026-11-23T08:30:11+00:00",
+    "last_seen": "2026-11-24T08:49:48+00:00",
     "channels": [
       "V2RAYROZ"
     ]
@@ -1576,7 +1576,7 @@
   },
   "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&headerType=none&type=tcp&sni=blog.discovergreatjobsandadvanceyourcareer.com#%40V2RAYROZ%20%F0%9F%8D%81": {
     "first_seen": "2026-11-22T08:26:37+00:00",
-    "last_seen": "2026-11-22T08:26:37+00:00",
+    "last_seen": "2026-11-24T08:49:48+00:00",
     "channels": [
       "V2RAYROZ"
     ]
@@ -2745,7 +2745,7 @@
   },
   "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.43.70:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#%40V2RAYROZ%20%F0%9F%8D%81": {
     "first_seen": "2026-11-23T08:30:11+00:00",
-    "last_seen": "2026-11-23T08:30:11+00:00",
+    "last_seen": "2026-11-24T08:49:48+00:00",
     "channels": [
       "V2RAYROZ"
     ]
@@ -4663,9 +4663,65 @@
   },
   "vless://ace5abce-b3a5-4116-9e53-4eadd6c21bd7@216.24.57.1:2083?mode=auto&path=%2Fsakeneko%3Fed%3D2048%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.dic5YSUX96-L8RLWUPe2f7l-vmMVZ55-FPzUytKOOlA&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=cbnklod.admni.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cbnklod.admni.ir#%40iranping24": {
     "first_seen": "2026-11-24T06:31:31+00:00",
-    "last_seen": "2026-11-24T06:31:31+00:00",
+    "last_seen": "2026-11-24T06:35:24+00:00",
     "channels": [
       "iranping24"
+    ]
+  },
+  "vless://db86e931-abb4-492c-b800-930eabe6afd3@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=finalnsdger.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#JOFAVPN%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86": {
+    "first_seen": "2026-11-24T09:13:52+00:00",
+    "last_seen": "2026-11-24T09:13:52+00:00",
+    "channels": [
+      "JOFAVPN"
+    ]
+  },
+  "vless://db86e931-abb4-492c-b800-930eabe6afd3@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=pum2kin.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#JOFAVPN%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86": {
+    "first_seen": "2026-11-24T09:13:52+00:00",
+    "last_seen": "2026-11-24T09:13:52+00:00",
+    "channels": [
+      "JOFAVPN"
+    ]
+  },
+  "vless://db86e931-abb4-492c-b800-930eabe6afd3@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=fraboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#JOFAVPN%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86": {
+    "first_seen": "2026-11-24T09:13:52+00:00",
+    "last_seen": "2026-11-24T09:13:52+00:00",
+    "channels": [
+      "JOFAVPN"
+    ]
+  },
+  "vless://db86e931-abb4-492c-b800-930eabe6afd3@ipfast.kingmna.com:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=genotu292.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#JOFAVPN%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86": {
+    "first_seen": "2026-11-24T09:13:52+00:00",
+    "last_seen": "2026-11-24T09:13:52+00:00",
+    "channels": [
+      "JOFAVPN"
+    ]
+  },
+  "vless://db86e931-abb4-492c-b800-930eabe6afd3@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=coffee.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#JOFAVPN%20%DA%86%D9%86%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86": {
+    "first_seen": "2026-11-24T09:13:52+00:00",
+    "last_seen": "2026-11-24T09:13:52+00:00",
+    "channels": [
+      "JOFAVPN"
+    ]
+  },
+  "vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQFYyUkFZUk9aIPCfjYEiLCJzY3kiOiJhdXRvIiwic25pIjoiMzguOTEuMTA3LjQ5IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9": {
+    "first_seen": "2026-11-24T08:49:48+00:00",
+    "last_seen": "2026-11-24T08:49:48+00:00",
+    "channels": [
+      "V2RAYROZ"
+    ]
+  },
+  "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.159:443?security=tls&headerType=none&type=tcp&sni=resources.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%40V2RAYROZ%20%F0%9F%8D%81": {
+    "first_seen": "2026-11-24T08:49:48+00:00",
+    "last_seen": "2026-11-24T08:49:48+00:00",
+    "channels": [
+      "V2RAYROZ"
+    ]
+  },
+  "vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQFYyUkFZUk9aIPCfjYEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9": {
+    "first_seen": "2026-11-24T08:49:48+00:00",
+    "last_seen": "2026-11-24T08:49:48+00:00",
+    "channels": [
+      "V2RAYROZ"
     ]
   }
 }
