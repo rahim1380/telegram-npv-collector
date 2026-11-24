@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 CHANNELS = [
     "MARAMBASHI",
     "v2ray_Mammad",
-    "levconnect",
     "iranping24",
     "Configvibes",
     "JOFAVPN",
@@ -28,6 +27,10 @@ CHANNELS = [
     "yorpeanel",
     "Nexus_Panell",
     "JKVPN",
+    "CloudVPNchannel",
+    "NUFiLTER",
+    "PLANB_NET",
+    "xxnetwork",
 ]
 
 ARCHIVE_PATH = Path("data/archive.json")
