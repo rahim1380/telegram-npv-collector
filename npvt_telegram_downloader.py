@@ -22,6 +22,10 @@ CHANNELS = [
 "NUFiLTER",
 "PLANB_NET",
 "xxnetwork",
+    "Alpha_V2ray_Group",
+    "RahinGP",
+    "Gp_config",
+    "ProxyShady",
 ]
 
 INPUT_DIR = Path("npvt_inputs")
