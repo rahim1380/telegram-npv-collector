@@ -6502,5 +6502,59 @@
     "channel": "ProxyShady",
     "message_id": 203733,
     "first_seen": "2026-11-25T16:15:15.317855+00:00"
+  },
+  "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf": {
+    "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+    "channel": "v2ray_Mammad",
+    "message_id": 2617,
+    "first_seen": "2026-11-25T17:22:27.591799+00:00"
+  },
+  "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10": {
+    "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+    "channel": "Alpha_V2ray_Group",
+    "message_id": 1216975,
+    "first_seen": "2026-11-25T17:22:56.183911+00:00"
+  },
+  "3289779ff7bdc18f3bfb3327001d13e3211219edeca4c40dbab88bcc95839fb0": {
+    "file": "Alpha_V2ray_Group_1216979_10سرور پرسرعتت اختصاصی موقت.npvt",
+    "channel": "Alpha_V2ray_Group",
+    "message_id": 1216979,
+    "first_seen": "2026-11-25T17:22:56.356201+00:00"
+  },
+  "ddadcfeb97f75d18a194789398550d106e88932a872e42b2d2e8d7160d37ac75": {
+    "file": "Gp_config_116806_VpnByZikkO _ N17.npvt",
+    "channel": "Gp_config",
+    "message_id": 116806,
+    "first_seen": "2026-11-25T17:23:05.020080+00:00"
+  },
+  "caa954b25d6e853c33952c8d4789deed117191b5241213301785595d5398929e": {
+    "file": "Gp_config_116818_VpnByZikkO _ N18.npvt",
+    "channel": "Gp_config",
+    "message_id": 116818,
+    "first_seen": "2026-11-25T17:23:05.422389+00:00"
+  },
+  "4dedf99dc324470f6f9b648b380a94a6d3af095c920fa3e0ff9e63cf04ba804d": {
+    "file": "ProxyShady_203743__Spinovpn_.npvt",
+    "channel": "ProxyShady",
+    "message_id": 203743,
+    "first_seen": "2026-11-25T17:24:04.665558+00:00"
+  },
+  "d3b95e1f56a668dc8f134697266dcf1a8c8d0e2e383cabfedd88180e1a239e15": {
+    "file": "ProxyShady_203757__Spinovpn_ (1).npvt",
+    "channel": "ProxyShady",
+    "message_id": 203757,
+    "first_seen": "2026-11-25T17:24:06.148698+00:00"
+  },
+  "02aeeaa78b4e302f6082cd0a5a38549f4d29817d840f51d103c0248f401624f9": {
+    "file": "ProxyShady_203770__Spinovpn_.npvt",
+    "channel": "ProxyShady",
+    "message_id": 203770,
+    "first_seen": "2026-11-25T17:24:07.078590+00:00"
+  },
+  "16afc8cd3ab103161042d78c8393fd0fecf34a4a952c7fe6d58b56e9ba1d265e": {
+    "file": "ProxyShady_203780__Spinovpn_.npvt",
+    "channel": "ProxyShady",
+    "message_id": 203780,
+    "first_seen": "2026-11-25T17:24:07.797865+00:00"
   }
 }

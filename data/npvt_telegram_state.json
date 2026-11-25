@@ -1,30 +1,30 @@
 {
   "channels": {
     "MARAMBASHI": 41955,
-    "v2ray_Mammad": 2616,
+    "v2ray_Mammad": 2617,
     "levconnect": 2113,
-    "iranping24": 2404,
+    "iranping24": 2406,
     "Configvibes": 2035,
-    "JOFAVPN": 973,
+    "JOFAVPN": 975,
     "VConfing": 3383,
     "appsooner": 4719,
     "SkyLiink_vpn": 7410,
     "haj_config": 208,
     "V2RAYROZ": 24043,
-    "PasargadConfig": 1751,
+    "PasargadConfig": 1752,
     "irannodes": 207,
     "V2RAYNG_Outline_VPN": 12318,
-    "yorpeanel": 163,
+    "yorpeanel": 165,
     "Nexus_Panell": 1984,
     "JKVPN": 17630,
     "CloudVPNchannel": 9219,
     "NUFiLTER": 9050,
     "PLANB_NET": 3796,
     "xxnetwork": 331374,
-    "Alpha_V2ray_Group": 1216951,
-    "RahinGP": 487532,
-    "Gp_config": 116800,
-    "ProxyShady": 203737
+    "Alpha_V2ray_Group": 1216988,
+    "RahinGP": 487569,
+    "Gp_config": 116818,
+    "ProxyShady": 203808
   },
   "recent_downloads": [
     {
@@ -40,69 +40,6 @@
       "message_id": 2614,
       "file": "v2ray_Mammad_2614_سرعتییی تانل همه خطوط.npvt",
       "sha256": "7e31f202b49e06bf0242795af8ee4b1605febef1d5a00d6b1d08dde7bb71d889"
-    },
-    {
-      "published_at": "2026-11-24T16:29:50+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216603,
-      "file": "Alpha_V2ray_Group_1216507_YektaCloud _.npvt",
-      "sha256": "5479a50c3d1f9a298a22043190ebb3e5719570b46e8feb7814f18da50f84f58a"
-    },
-    {
-      "published_at": "2026-11-24T16:32:08+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216604,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:47:58+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216610,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:52:36+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216611,
-      "file": "Alpha_V2ray_Group_1216507_YektaCloud _.npvt",
-      "sha256": "5479a50c3d1f9a298a22043190ebb3e5719570b46e8feb7814f18da50f84f58a"
-    },
-    {
-      "published_at": "2026-11-24T16:58:17+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216614,
-      "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
-      "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
-    },
-    {
-      "published_at": "2026-11-24T17:01:43+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216615,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T17:09:32+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216618,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T17:14:06+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216628,
-      "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
-      "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
-    },
-    {
-      "published_at": "2026-11-24T17:14:33+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1216629,
-      "file": "Alpha_V2ray_Group_1216507_YektaCloud _.npvt",
-      "sha256": "5479a50c3d1f9a298a22043190ebb3e5719570b46e8feb7814f18da50f84f58a"
     },
     {
       "published_at": "2026-11-24T17:37:02+00:00",
@@ -266,27 +203,6 @@
       "sha256": "5479a50c3d1f9a298a22043190ebb3e5719570b46e8feb7814f18da50f84f58a"
     },
     {
-      "published_at": "2026-11-24T16:20:09+00:00",
-      "channel": "RahinGP",
-      "message_id": 486998,
-      "file": "RahinGP_486933__𝗡𝗜𝗧𝗥𝗨 𝗩𝗜𝗣_.npvt",
-      "sha256": "bbdd92f72bb7efcb2abfaa81f3e1eb490c3b8b7e534a8933555d1937cbbe16e4"
-    },
-    {
-      "published_at": "2026-11-24T16:40:04+00:00",
-      "channel": "RahinGP",
-      "message_id": 487011,
-      "file": "RahinGP_486933__𝗡𝗜𝗧𝗥𝗨 𝗩𝗜𝗣_.npvt",
-      "sha256": "bbdd92f72bb7efcb2abfaa81f3e1eb490c3b8b7e534a8933555d1937cbbe16e4"
-    },
-    {
-      "published_at": "2026-11-24T17:01:11+00:00",
-      "channel": "RahinGP",
-      "message_id": 487019,
-      "file": "RahinGP_486933__𝗡𝗜𝗧𝗥𝗨 𝗩𝗜𝗣_.npvt",
-      "sha256": "bbdd92f72bb7efcb2abfaa81f3e1eb490c3b8b7e534a8933555d1937cbbe16e4"
-    },
-    {
       "published_at": "2026-11-24T17:22:36+00:00",
       "channel": "RahinGP",
       "message_id": 487026,
@@ -399,13 +315,6 @@
       "sha256": "bbdd92f72bb7efcb2abfaa81f3e1eb490c3b8b7e534a8933555d1937cbbe16e4"
     },
     {
-      "published_at": "2026-11-24T16:39:23+00:00",
-      "channel": "Gp_config",
-      "message_id": 116592,
-      "file": "Gp_config_116592_VpnByZikkO _ N13.npvt",
-      "sha256": "8a7f1f938f726f774e5add14023a63bf4bbac72aebe45ef2e451eeae25de3cb6"
-    },
-    {
       "published_at": "2026-11-24T17:38:15+00:00",
       "channel": "Gp_config",
       "message_id": 116615,
@@ -495,433 +404,6 @@
       "message_id": 116725,
       "file": "Gp_config_116725_VpnByZikkO _ N6.npvt",
       "sha256": "6cba4eeefa8d03f920368b8a04c86757e5f964324d99932994e07b5ce5ce10a1"
-    },
-    {
-      "published_at": "2026-11-24T16:12:53+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202191,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:13:05+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202192,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:14:31+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202193,
-      "file": "ProxyShady_201620__SIL3NTVPN - _.npvt",
-      "sha256": "cd88beab2d76821df9976c42bc592cd02996c72a6d75fa370ef667448b045407"
-    },
-    {
-      "published_at": "2026-11-24T16:15:38+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202195,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:17:09+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202197,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:18:02+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202199,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:18:04+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202201,
-      "file": "ProxyShady_201785__𝑽𝒊𝒑 𝒄𝒐𝒏𝒇𝒊𝒈_.npvt",
-      "sha256": "32083d9fd2bd364fb691732eb2b2b0ef80969b4d837618cc9f659dedfcdb364c"
-    },
-    {
-      "published_at": "2026-11-24T16:18:09+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202202,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:19:13+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202205,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:19:15+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202206,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:23:04+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202210,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:27:30+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202215,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:27:35+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202216,
-      "file": "ProxyShady_201785__𝑽𝒊𝒑 𝒄𝒐𝒏𝒇𝒊𝒈_.npvt",
-      "sha256": "32083d9fd2bd364fb691732eb2b2b0ef80969b4d837618cc9f659dedfcdb364c"
-    },
-    {
-      "published_at": "2026-11-24T16:27:42+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202217,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:29:47+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202221,
-      "file": "Alpha_V2ray_Group_1216507_YektaCloud _.npvt",
-      "sha256": "5479a50c3d1f9a298a22043190ebb3e5719570b46e8feb7814f18da50f84f58a"
-    },
-    {
-      "published_at": "2026-11-24T16:30:00+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202222,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:32:03+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202224,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:34:06+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202228,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:34:17+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202229,
-      "file": "ProxyShady_201733__Spinovpn_.npvt",
-      "sha256": "fca44714c130261fd361659f03f9e826f7f898b1cb5ab20933c6a3e1b7784ca9"
-    },
-    {
-      "published_at": "2026-11-24T16:35:21+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202230,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:37:25+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202233,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:38:14+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202234,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:38:31+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202235,
-      "file": "ProxyShady_201822__𝐆𝐇𝐎𝐅𝐋𝐒𝐇𝐂𝐀𝐍_.npvt",
-      "sha256": "5de6b5c976398990bd3cef0f254210f848ee0288fa077f5e1854f39b1a7c13e4"
-    },
-    {
-      "published_at": "2026-11-24T16:38:45+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202236,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:38:56+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202237,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:39:14+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202238,
-      "file": "ProxyShady_201785__𝑽𝒊𝒑 𝒄𝒐𝒏𝒇𝒊𝒈_.npvt",
-      "sha256": "32083d9fd2bd364fb691732eb2b2b0ef80969b4d837618cc9f659dedfcdb364c"
-    },
-    {
-      "published_at": "2026-11-24T16:39:54+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202239,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:41:43+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202242,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:42:02+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202243,
-      "file": "ProxyShady_201624__Spinovpn_ (5).npvt",
-      "sha256": "8fda342f898e74ba017bf4883899de39e7a3bcf1b4052d9a057ab51937b24f52"
-    },
-    {
-      "published_at": "2026-11-24T16:42:55+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202244,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:46:04+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202246,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:48:04+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202250,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:49:05+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202251,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:49:20+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202252,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:51:53+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202254,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:52:32+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202255,
-      "file": "ProxyShady_201785__𝑽𝒊𝒑 𝒄𝒐𝒏𝒇𝒊𝒈_.npvt",
-      "sha256": "32083d9fd2bd364fb691732eb2b2b0ef80969b4d837618cc9f659dedfcdb364c"
-    },
-    {
-      "published_at": "2026-11-24T16:52:39+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202256,
-      "file": "Alpha_V2ray_Group_1216507_YektaCloud _.npvt",
-      "sha256": "5479a50c3d1f9a298a22043190ebb3e5719570b46e8feb7814f18da50f84f58a"
-    },
-    {
-      "published_at": "2026-11-24T16:55:14+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202261,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:56:41+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202262,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:57:00+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202263,
-      "file": "ProxyShady_201903__Spinovpn_ (2).npvt",
-      "sha256": "3d8f1053773c36cecee3d8ee636cc4faf156f96e6a3fb2974efa7e0a3dd5a154"
-    },
-    {
-      "published_at": "2026-11-24T16:57:18+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202265,
-      "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
-      "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
-    },
-    {
-      "published_at": "2026-11-24T16:57:31+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202267,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T16:58:10+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202270,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T16:59:57+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202273,
-      "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
-      "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
-    },
-    {
-      "published_at": "2026-11-24T17:02:21+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202274,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T17:02:47+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202275,
-      "file": "ProxyShady_201922__Spinovpn_ (2).npvt",
-      "sha256": "16e8405c9d1cec6626a636e14865657d8ba72d736bb6512c07fdb536aa4305e2"
-    },
-    {
-      "published_at": "2026-11-24T17:02:59+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202276,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T17:04:35+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202277,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T17:04:51+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202278,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T17:06:36+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202279,
-      "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
-      "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
-    },
-    {
-      "published_at": "2026-11-24T17:08:11+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202280,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T17:09:19+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202284,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T17:10:34+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202285,
-      "file": "Alpha_V2ray_Group_1216593_اختلال شکن_.npvt",
-      "sha256": "6c884191261628adb5e0f92e7a67f24bca826fc0fbfbb5b01f928808f03edd43"
-    },
-    {
-      "published_at": "2026-11-24T17:13:27+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202286,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T17:13:47+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202288,
-      "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
-      "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
-    },
-    {
-      "published_at": "2026-11-24T17:14:11+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202289,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T17:14:27+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202291,
-      "file": "Alpha_V2ray_Group_1216507_YektaCloud _.npvt",
-      "sha256": "5479a50c3d1f9a298a22043190ebb3e5719570b46e8feb7814f18da50f84f58a"
-    },
-    {
-      "published_at": "2026-11-24T17:15:49+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202292,
-      "file": "v2ray_Mammad_2605_سرعتییی ناب همه نت تاشب.npvt",
-      "sha256": "581cb2501b19eefbecd6a54405ee549af80597eaad254c5185b330b930f3cb2d"
-    },
-    {
-      "published_at": "2026-11-24T17:19:50+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202298,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
-    },
-    {
-      "published_at": "2026-11-24T17:20:08+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202299,
-      "file": "ProxyShady_201717__Spinovpn_.npvt",
-      "sha256": "427caa5077408cadec67a6928e0e082c220ed2f98e99e13224f733a7652572e5"
-    },
-    {
-      "published_at": "2026-11-24T17:21:32+00:00",
-      "channel": "ProxyShady",
-      "message_id": 202302,
-      "file": "ProxyShady_201599__VASLBOX1_.npvt",
-      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
     },
     {
       "published_at": "2026-11-24T17:24:21+00:00",
@@ -4247,6 +3729,426 @@
       "message_id": 203734,
       "file": "v2ray_Mammad_2616_13سرور پرسرعتتت اختصاصی.npvt",
       "sha256": "c95f9bda8a817462fd8a4e8d29055fdcdcc9198a35a2dce3fa42b4b7771d7c72"
+    },
+    {
+      "published_at": "2026-11-25T16:27:40+00:00",
+      "channel": "v2ray_Mammad",
+      "message_id": 2617,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:22:42+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216956,
+      "file": "Alpha_V2ray_Group_1216885_YektaCloud _.npvt",
+      "sha256": "255afaf2a5ba3873b438a7a987fb2bbc0bc4f10657788ed86819c075332c43ce"
+    },
+    {
+      "published_at": "2026-11-25T16:25:50+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216958,
+      "file": "Alpha_V2ray_Group_1216878__config_star1_.npvt",
+      "sha256": "7e0781da53373041e0d6f12adc1106dea964c3448b6341952508a98c97d4dd70"
+    },
+    {
+      "published_at": "2026-11-25T16:30:45+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216960,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:44:20+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216966,
+      "file": "Alpha_V2ray_Group_1216885_YektaCloud _.npvt",
+      "sha256": "255afaf2a5ba3873b438a7a987fb2bbc0bc4f10657788ed86819c075332c43ce"
+    },
+    {
+      "published_at": "2026-11-25T16:49:01+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216970,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T17:06:28+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216972,
+      "file": "Alpha_V2ray_Group_1216885_YektaCloud _.npvt",
+      "sha256": "255afaf2a5ba3873b438a7a987fb2bbc0bc4f10657788ed86819c075332c43ce"
+    },
+    {
+      "published_at": "2026-11-25T17:10:53+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216975,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:13:31+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216979,
+      "file": "Alpha_V2ray_Group_1216979_10سرور پرسرعتت اختصاصی موقت.npvt",
+      "sha256": "3289779ff7bdc18f3bfb3327001d13e3211219edeca4c40dbab88bcc95839fb0"
+    },
+    {
+      "published_at": "2026-11-25T17:15:36+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216980,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:17:45+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216983,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:20:27+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216986,
+      "file": "Alpha_V2ray_Group_1216979_10سرور پرسرعتت اختصاصی موقت.npvt",
+      "sha256": "3289779ff7bdc18f3bfb3327001d13e3211219edeca4c40dbab88bcc95839fb0"
+    },
+    {
+      "published_at": "2026-11-25T17:22:01+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1216987,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T16:28:35+00:00",
+      "channel": "Gp_config",
+      "message_id": 116804,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:39:03+00:00",
+      "channel": "Gp_config",
+      "message_id": 116806,
+      "file": "Gp_config_116806_VpnByZikkO _ N17.npvt",
+      "sha256": "ddadcfeb97f75d18a194789398550d106e88932a872e42b2d2e8d7160d37ac75"
+    },
+    {
+      "published_at": "2026-11-25T17:12:53+00:00",
+      "channel": "Gp_config",
+      "message_id": 116815,
+      "file": "Alpha_V2ray_Group_1216979_10سرور پرسرعتت اختصاصی موقت.npvt",
+      "sha256": "3289779ff7bdc18f3bfb3327001d13e3211219edeca4c40dbab88bcc95839fb0"
+    },
+    {
+      "published_at": "2026-11-25T17:22:51+00:00",
+      "channel": "Gp_config",
+      "message_id": 116818,
+      "file": "Gp_config_116818_VpnByZikkO _ N18.npvt",
+      "sha256": "caa954b25d6e853c33952c8d4789deed117191b5241213301785595d5398929e"
+    },
+    {
+      "published_at": "2026-11-25T16:14:04+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203736,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:14:45+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203737,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:16:54+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203740,
+      "file": "v2ray_Mammad_2616_13سرور پرسرعتتت اختصاصی.npvt",
+      "sha256": "c95f9bda8a817462fd8a4e8d29055fdcdcc9198a35a2dce3fa42b4b7771d7c72"
+    },
+    {
+      "published_at": "2026-11-25T16:22:45+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203742,
+      "file": "Alpha_V2ray_Group_1216885_YektaCloud _.npvt",
+      "sha256": "255afaf2a5ba3873b438a7a987fb2bbc0bc4f10657788ed86819c075332c43ce"
+    },
+    {
+      "published_at": "2026-11-25T16:22:49+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203743,
+      "file": "ProxyShady_203743__Spinovpn_.npvt",
+      "sha256": "4dedf99dc324470f6f9b648b380a94a6d3af095c920fa3e0ff9e63cf04ba804d"
+    },
+    {
+      "published_at": "2026-11-25T16:23:30+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203744,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:25:42+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203745,
+      "file": "Alpha_V2ray_Group_1216878__config_star1_.npvt",
+      "sha256": "7e0781da53373041e0d6f12adc1106dea964c3448b6341952508a98c97d4dd70"
+    },
+    {
+      "published_at": "2026-11-25T16:29:00+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203748,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:30:34+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203750,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:31:04+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203752,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:31:55+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203753,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:32:09+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203754,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:33:41+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203756,
+      "file": "ProxyShady_203483__𝑼𝒍𝒕𝒓𝒂 𝑽𝒊𝒑_.npvt",
+      "sha256": "9dff8e357944bd60dd3bc5b3bcbf351e6ed130e69e01227eb358aed7163295aa"
+    },
+    {
+      "published_at": "2026-11-25T16:34:09+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203757,
+      "file": "ProxyShady_203757__Spinovpn_ (1).npvt",
+      "sha256": "d3b95e1f56a668dc8f134697266dcf1a8c8d0e2e383cabfedd88180e1a239e15"
+    },
+    {
+      "published_at": "2026-11-25T16:34:46+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203758,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:43:19+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203762,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:44:01+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203765,
+      "file": "Alpha_V2ray_Group_1216885_YektaCloud _.npvt",
+      "sha256": "255afaf2a5ba3873b438a7a987fb2bbc0bc4f10657788ed86819c075332c43ce"
+    },
+    {
+      "published_at": "2026-11-25T16:44:54+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203767,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:46:59+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203769,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:48:30+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203770,
+      "file": "ProxyShady_203770__Spinovpn_.npvt",
+      "sha256": "02aeeaa78b4e302f6082cd0a5a38549f4d29817d840f51d103c0248f401624f9"
+    },
+    {
+      "published_at": "2026-11-25T16:51:27+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203771,
+      "file": "v2ray_Mammad_2617_پرسرعتتت ناب همه نت.npvt",
+      "sha256": "ef263e55b257c73c04f9a1829a6dcab9731ecd446226687d13c40aa5c04dcaaf"
+    },
+    {
+      "published_at": "2026-11-25T16:52:35+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203773,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T16:58:44+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203777,
+      "file": "ProxyShady_203483__𝑼𝒍𝒕𝒓𝒂 𝑽𝒊𝒑_.npvt",
+      "sha256": "9dff8e357944bd60dd3bc5b3bcbf351e6ed130e69e01227eb358aed7163295aa"
+    },
+    {
+      "published_at": "2026-11-25T17:00:00+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203778,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T17:03:04+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203780,
+      "file": "ProxyShady_203780__Spinovpn_.npvt",
+      "sha256": "16afc8cd3ab103161042d78c8393fd0fecf34a4a952c7fe6d58b56e9ba1d265e"
+    },
+    {
+      "published_at": "2026-11-25T17:03:14+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203781,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T17:04:52+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203783,
+      "file": "ProxyShady_203483__𝑼𝒍𝒕𝒓𝒂 𝑽𝒊𝒑_.npvt",
+      "sha256": "9dff8e357944bd60dd3bc5b3bcbf351e6ed130e69e01227eb358aed7163295aa"
+    },
+    {
+      "published_at": "2026-11-25T17:06:49+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203784,
+      "file": "Alpha_V2ray_Group_1216885_YektaCloud _.npvt",
+      "sha256": "255afaf2a5ba3873b438a7a987fb2bbc0bc4f10657788ed86819c075332c43ce"
+    },
+    {
+      "published_at": "2026-11-25T17:07:22+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203785,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T17:10:25+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203790,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:10:41+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203791,
+      "file": "ProxyShady_203483__𝑼𝒍𝒕𝒓𝒂 𝑽𝒊𝒑_.npvt",
+      "sha256": "9dff8e357944bd60dd3bc5b3bcbf351e6ed130e69e01227eb358aed7163295aa"
+    },
+    {
+      "published_at": "2026-11-25T17:12:29+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203793,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:13:26+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203795,
+      "file": "Alpha_V2ray_Group_1216979_10سرور پرسرعتت اختصاصی موقت.npvt",
+      "sha256": "3289779ff7bdc18f3bfb3327001d13e3211219edeca4c40dbab88bcc95839fb0"
+    },
+    {
+      "published_at": "2026-11-25T17:13:34+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203796,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:14:59+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203797,
+      "file": "ProxyShady_203483__𝑼𝒍𝒕𝒓𝒂 𝑽𝒊𝒑_.npvt",
+      "sha256": "9dff8e357944bd60dd3bc5b3bcbf351e6ed130e69e01227eb358aed7163295aa"
+    },
+    {
+      "published_at": "2026-11-25T17:15:23+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203798,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:17:33+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203800,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:17:42+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203801,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T17:18:22+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203803,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:19:35+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203804,
+      "file": "ProxyShady_201599__VASLBOX1_.npvt",
+      "sha256": "64243f6fe4fb4322a2b4ab8451e9eb6dc36311fb4c66cb210023232421e2631d"
+    },
+    {
+      "published_at": "2026-11-25T17:19:47+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203805,
+      "file": "Alpha_V2ray_Group_1216979_10سرور پرسرعتت اختصاصی موقت.npvt",
+      "sha256": "3289779ff7bdc18f3bfb3327001d13e3211219edeca4c40dbab88bcc95839fb0"
+    },
+    {
+      "published_at": "2026-11-25T17:20:38+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203806,
+      "file": "Alpha_V2ray_Group_1216975_مخصوص اختلال_.npvt",
+      "sha256": "1153c0a90ecfa8f4c81007cb7032afe92fc3832e18ef75a28fedb17bfa33fa10"
+    },
+    {
+      "published_at": "2026-11-25T17:22:53+00:00",
+      "channel": "ProxyShady",
+      "message_id": 203807,
+      "file": "Alpha_V2ray_Group_1216885_YektaCloud _.npvt",
+      "sha256": "255afaf2a5ba3873b438a7a987fb2bbc0bc4f10657788ed86819c075332c43ce"
     }
   ]
 }
