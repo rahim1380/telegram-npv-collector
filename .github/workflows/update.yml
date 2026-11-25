@@ -67,4 +67,26 @@ jobs:
           git add npvt_inputs/
 
           git diff --cached --quiet || git commit -m "Update Telegram and NPVT subscriptions"
-          git push
+
+          # Synchronize with main and retry if another run pushes first.
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}/5"
+            git fetch origin main
+
+            if ! git -c rebase.autoStash=true rebase origin/main; then
+              echo "::error::Rebase conflict while synchronizing with main."
+              git rebase --abort || true
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              echo "Changes pushed successfully."
+              exit 0
+            fi
+
+            echo "Push rejected; retrying..."
+            sleep 3
+          done
+
+          echo "::error::Push failed after 5 attempts."
+          exit 1
