@@ -25638,5 +25638,41 @@
   "trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?allowInsecure=1&host=filasi554.global.ssl.fastly.net.&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%D9%87%D8%B1%20%D9%87%D9%81%D8%AA%D9%87%20%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%AF%DB%8C%D9%87": {
     "source_file": "v2ray_Mammad_2626_10سرورپرسرعتتت همه خطوط.npvt",
     "imported_at": "2026-11-26T14:27:05.856635+00:00"
+  },
+  "vless://7fc97305-37f3-4ab7-8bf0-add92a0fe31d@65.109.241.88:4850?encryption=none&security=none&type=tcp#%40Configvibes": {
+    "source_file": "Configvibes_2040_Configvibes_.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "vmess://eyJ2IjoiMiIsInBzIjoiQFx1ZDgzNVx1ZGMxM1x1ZDgzNVx1ZGMwZVx1ZDgzNVx1ZGMwZVx1ZDgzNVx1ZGMxM1x1ZDgzNVx1ZGMwNVx1ZDgzNVx1ZGMwNVx1ZDgzNVx1ZGMwMFx1ZDgzNVx1ZGMxMVx1ZDgzNVx1ZGMwMFx1ZDgzNVx1ZGMwZFx1ZDgzNVx1ZGMwNlx1ZDgzNVx1ZGMwOC0xMlx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmOSIsImFkZCI6IjE1NC40Ny4xOS4yMjUiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIn0=": {
+    "source_file": "Gp_config_117014_VpnByZikkO _ N13.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999#%40Spinovpn%F0%9F%A6%95%E2%9B%91%EF%B8%8F%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "Gp_config_117014_VpnByZikkO _ N13.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?allowInsecure=1&security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%F0%9D%97%A9%F0%9D%9F%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%86%F0%9D%97%A1%F0%9D%97%9A%F0%9D%97%A1%F0%9D%97%A3%E2%AD%90%EF%B8%8F6": {
+    "source_file": "Gp_config_117014_VpnByZikkO _ N13.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#%40Spinovpn%F0%9F%A6%95%E2%98%84%EF%B8%8F%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "ProxyShady_204798__Spinovpn_.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp#%40Spinovpn%F0%9F%A6%95%E2%9D%84%EF%B8%8F%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "ProxyShady_204821__Spinovpn_.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%40Spinovpn%F0%9F%A6%95%F0%9F%8C%80%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "ProxyShady_204832__Spinovpn_.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%40Spinovpn%F0%9F%A6%95%F0%9F%8D%B6%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "ProxyShady_204867__Spinovpn_.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#%40Spinovpn%F0%9F%A6%95%F0%9F%8E%8A%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "ProxyShady_204890__Spinovpn_.npvt",
+    "imported_at": "2026-11-26T15:30:25.512721+00:00"
   }
 }
