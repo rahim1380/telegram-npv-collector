@@ -7012,5 +7012,29 @@
     "channel": "ProxyShady",
     "message_id": 205051,
     "first_seen": "2026-11-26T17:51:22.311086+00:00"
+  },
+  "4e09ff1d6f925df04636621ea242aac5416b8180158f189b805d636a5b1e369d": {
+    "file": "Alpha_V2ray_Group_1217467_سرعتی_.npvt",
+    "channel": "Alpha_V2ray_Group",
+    "message_id": 1217467,
+    "first_seen": "2026-11-26T18:23:37.656847+00:00"
+  },
+  "5b8ab53db57b030cc93d7d1780ed9efbea8f1dde3d26bd9413f58afa288a1127": {
+    "file": "Alpha_V2ray_Group_1217471_YektaCloud _ _ SPEED.npvt",
+    "channel": "Alpha_V2ray_Group",
+    "message_id": 1217471,
+    "first_seen": "2026-11-26T18:23:37.768789+00:00"
+  },
+  "2fe3badb0b28511594a3d8b7e774915ddf2b32426114640b8044e18127365c75": {
+    "file": "Gp_config_117074_VpnByZikkO _ N17.npvt",
+    "channel": "Gp_config",
+    "message_id": 117074,
+    "first_seen": "2026-11-26T18:23:49.732174+00:00"
+  },
+  "c6594cc39f073905a9e5fddb58b2bdf0f339a202bbc490d684a25d6980b76ccf": {
+    "file": "ProxyShady_205062__Spinovpn_.npvt",
+    "channel": "ProxyShady",
+    "message_id": 205062,
+    "first_seen": "2026-11-26T18:25:07.258399+00:00"
   }
 }
