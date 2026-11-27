@@ -21,10 +21,10 @@
     "NUFiLTER": 9055,
     "PLANB_NET": 3806,
     "xxnetwork": 331389,
-    "Alpha_V2ray_Group": 1217924,
-    "RahinGP": 488956,
-    "Gp_config": 117370,
-    "ProxyShady": 206335
+    "Alpha_V2ray_Group": 1217928,
+    "RahinGP": 488957,
+    "Gp_config": 117371,
+    "ProxyShady": 206344
   },
   "recent_downloads": [
     {
@@ -33,20 +33,6 @@
       "message_id": 2049,
       "file": "Configvibes_2049__𝜗ৎ Configvibes_.npvt",
       "sha256": "83a8e98ece4730cc7451e65bfdfe40528987394b4800d47526f8b1c22e9b9653"
-    },
-    {
-      "published_at": "2026-11-26T19:21:53+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1217571,
-      "file": "Alpha_V2ray_Group_1217471_YektaCloud _ _ SPEED.npvt",
-      "sha256": "5b8ab53db57b030cc93d7d1780ed9efbea8f1dde3d26bd9413f58afa288a1127"
-    },
-    {
-      "published_at": "2026-11-26T19:24:32+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1217576,
-      "file": "Gp_config_116876__VASLBOX1_.npvt",
-      "sha256": "3906f28447bc4b96ec54656bf00dc48799313a87daf20d2d3d945ebc4f3f583a"
     },
     {
       "published_at": "2026-11-26T19:32:30+00:00",
@@ -159,41 +145,6 @@
       "message_id": 117144,
       "file": "Gp_config_117144_تانل سرعتییی همه نت تاظهر (20).npvt",
       "sha256": "a3fbd7b1d55983f1b7413ea888f75102f2782b106fbeca19675f24877bff1be0"
-    },
-    {
-      "published_at": "2026-11-26T19:21:43+00:00",
-      "channel": "ProxyShady",
-      "message_id": 205178,
-      "file": "Alpha_V2ray_Group_1217471_YektaCloud _ _ SPEED.npvt",
-      "sha256": "5b8ab53db57b030cc93d7d1780ed9efbea8f1dde3d26bd9413f58afa288a1127"
-    },
-    {
-      "published_at": "2026-11-26T19:21:53+00:00",
-      "channel": "ProxyShady",
-      "message_id": 205179,
-      "file": "Gp_config_116876__VASLBOX1_.npvt",
-      "sha256": "3906f28447bc4b96ec54656bf00dc48799313a87daf20d2d3d945ebc4f3f583a"
-    },
-    {
-      "published_at": "2026-11-26T19:23:37+00:00",
-      "channel": "ProxyShady",
-      "message_id": 205180,
-      "file": "Gp_config_116876__VASLBOX1_.npvt",
-      "sha256": "3906f28447bc4b96ec54656bf00dc48799313a87daf20d2d3d945ebc4f3f583a"
-    },
-    {
-      "published_at": "2026-11-26T19:23:54+00:00",
-      "channel": "ProxyShady",
-      "message_id": 205181,
-      "file": "ProxyShady_204890__Spinovpn_.npvt",
-      "sha256": "06b5e3721cbf496cf788364839366ef7384cec5bb1670630730e418a28875ce7"
-    },
-    {
-      "published_at": "2026-11-26T19:25:35+00:00",
-      "channel": "ProxyShady",
-      "message_id": 205183,
-      "file": "Gp_config_117065_𝐕2𝐫𝐚𝐲_𝐀𝐌 Tunnel.npvt",
-      "sha256": "2d56539b49833ee71622623d21bd7cb3a1a2b1e138d4bd3001ed852e8c5d015d"
     },
     {
       "published_at": "2026-11-26T19:27:16+00:00",
@@ -4639,6 +4590,41 @@
       "message_id": 206333,
       "file": "Gp_config_117111__VASLBOX1_.npvt",
       "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
+    },
+    {
+      "published_at": "2026-11-27T19:19:09+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1217926,
+      "file": "Gp_config_117111__VASLBOX1_.npvt",
+      "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
+    },
+    {
+      "published_at": "2026-11-27T19:23:57+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1217927,
+      "file": "Gp_config_117111__VASLBOX1_.npvt",
+      "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
+    },
+    {
+      "published_at": "2026-11-27T19:22:42+00:00",
+      "channel": "ProxyShady",
+      "message_id": 206337,
+      "file": "Gp_config_117111__VASLBOX1_.npvt",
+      "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
+    },
+    {
+      "published_at": "2026-11-27T19:23:10+00:00",
+      "channel": "ProxyShady",
+      "message_id": 206339,
+      "file": "Gp_config_117111__VASLBOX1_.npvt",
+      "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
+    },
+    {
+      "published_at": "2026-11-27T19:25:35+00:00",
+      "channel": "ProxyShady",
+      "message_id": 206341,
+      "file": "Gp_config_117130_𝐕2𝐫𝐚𝐲_𝐀𝐌 𝐕𝐈𝐏 _ _.npvt",
+      "sha256": "0b4118877adfe5d8401bce27bea38d59f963693fbee85a30cca163f4ab9498d4"
     }
   ]
 }
