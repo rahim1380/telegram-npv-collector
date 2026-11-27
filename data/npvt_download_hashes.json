@@ -7282,5 +7282,17 @@
     "channel": "ProxyShady",
     "message_id": 205714,
     "first_seen": "2026-11-27T09:52:32.510204+00:00"
+  },
+  "fe2d621b28987aae8124e0619f0b7ea0bfbf1f51eddbef89c14f66d03ce2b668": {
+    "file": "Alpha_V2ray_Group_1217654__config_star1_.npvt",
+    "channel": "Alpha_V2ray_Group",
+    "message_id": 1217654,
+    "first_seen": "2026-11-27T10:05:19.392104+00:00"
+  },
+  "a0bade0d23b7bf16b268769dee3f103c71e9f1efb21ff1f4023a5c7b9f7f46c4": {
+    "file": "Gp_config_117220_VpnByZikkO _ N1.npvt",
+    "channel": "Gp_config",
+    "message_id": 117220,
+    "first_seen": "2026-11-27T10:05:30.670109+00:00"
   }
 }
