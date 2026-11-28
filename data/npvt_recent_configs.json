@@ -45,7 +45,7 @@
   },
   "trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looasaaa2boijji.global.ssl.fastly.net&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#YektaCloud%20%F0%9F%A6%9A": {
     "source_file": "Alpha_V2ray_Group_1217659_YektaCloud _.npvt",
-    "published_at": "2026-11-28T17:51:44+00:00"
+    "published_at": "2026-11-28T18:12:46+00:00"
   },
   "vless://21d1180e-e19f-4510-9afb-d5a6b0d1668f@tpoo.sublinkplas.ir:12190?allowInsecure=1&encryption=none&fp=firefox&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&security=reality&sid=3e5cba1bd6eb6221&sni=delivery.mp.microsoft.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20%40config_star1": {
     "source_file": "Alpha_V2ray_Group_1217999__config_star1_.npvt",
@@ -523,6 +523,18 @@
     "source_file": "Gp_config_117643_VpnByZikkO _ N14.npvt",
     "published_at": "2026-11-28T17:08:35+00:00"
   },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%40Spinovpn%F0%9F%A6%95%F0%9F%9A%81%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "Gp_config_117657_VpnByZikkO _ N15.npvt",
+    "published_at": "2026-11-28T18:07:17+00:00"
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY=@leviko-fr1459.shopingggg.ir:443#%40Spinovpn%F0%9F%A6%95%F0%9F%A7%B8%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "Gp_config_117657_VpnByZikkO _ N15.npvt",
+    "published_at": "2026-11-28T18:07:17+00:00"
+  },
+  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp#%40Spinovpn%F0%9F%A6%95%F0%9F%94%AE%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
+    "source_file": "Gp_config_117657_VpnByZikkO _ N15.npvt",
+    "published_at": "2026-11-28T18:07:17+00:00"
+  },
   "trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=loosnsj5aboijji.global.ssl.fastly.net&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%40SIL3NTVPN%20-%20%F0%9F%8C%9E%C2%B9": {
     "source_file": "ProxyShady_205239__SIL3NTVPN - _.npvt",
     "published_at": "2026-11-28T16:21:43+00:00"
@@ -823,10 +835,6 @@
     "source_file": "ProxyShady_207019__Spinovpn_.npvt",
     "published_at": "2026-11-28T15:41:28+00:00"
   },
-  "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp#%40Spinovpn%F0%9F%A6%95%F0%9F%94%AE%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
-    "source_file": "ProxyShady_207044__Spinovpn_.npvt",
-    "published_at": "2026-11-28T16:10:48+00:00"
-  },
   "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#%40Spinovpn%F0%9F%A6%95%F0%9F%94%B5%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
     "source_file": "ProxyShady_207051__Spinovpn_.npvt",
     "published_at": "2026-11-28T16:20:59+00:00"
@@ -839,10 +847,6 @@
     "source_file": "ProxyShady_207083__Spinovpn_ (1).npvt",
     "published_at": "2026-11-28T17:00:40+00:00"
   },
-  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY=@leviko-fr1459.shopingggg.ir:443#%40Spinovpn%F0%9F%A6%95%F0%9F%A7%B8%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
-    "source_file": "ProxyShady_207091__Spinovpn_.npvt",
-    "published_at": "2026-11-28T17:10:59+00:00"
-  },
   "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY=@leviko-fr1459.shopingggg.ir:443#%40Spinovpn%F0%9F%A6%95%F0%9F%AA%81%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
     "source_file": "ProxyShady_207093__Spinovpn_ (1).npvt",
     "published_at": "2026-11-28T17:20:21+00:00"
@@ -850,10 +854,6 @@
   "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%40Spinovpn%F0%9F%A6%95%F0%9F%AA%90%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
     "source_file": "ProxyShady_207099__Spinovpn_.npvt",
     "published_at": "2026-11-28T17:30:22+00:00"
-  },
-  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%40Spinovpn%F0%9F%A6%95%F0%9F%9A%81%20%D9%88%D8%B5%D9%84%DB%8C%E2%80%8C%D8%AC%D9%88%DB%8C%D9%86%E2%80%8C%D8%B4%D9%88": {
-    "source_file": "ProxyShady_207105__Spinovpn_.npvt",
-    "published_at": "2026-11-28T17:38:24+00:00"
   },
   "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%40npvfreeall%F0%9F%87%A7%F0%9F%87%B1": {
     "source_file": "ProxyShady_207117_npvfreeall_.npvt",
@@ -1154,6 +1154,54 @@
   "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9D%97%A9%F0%9D%97%9C%F0%9D%97%A3%F0%9D%97%A9%F0%9D%9F%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%86%F0%9D%97%A1%F0%9D%97%9A%F0%9D%97%A1%F0%9D%97%A3%E2%98%982": {
     "source_file": "RahinGP_489347_𝗩𝗜𝗣𝗩𝟮𝗿𝗮𝘆𝗡𝗚𝗡𝗣 (_).npvt",
     "published_at": "2026-11-28T13:43:04+00:00"
+  },
+  "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%911": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "vless://da14e323-6af7-406f-a5c2-1eb7975ada8b@mail1.besttotaldns.com:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=mail1.besttotaldns.com&type=tcp#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%912": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%913": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "vless://a346c521-7a7f-452b-9356-a4893feb5982@93.123.101.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%914": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@162.159.254.201:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=freeceshi6.frii.site&path=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&security=tls&sni=freeceshi6.frii.site&type=ws#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%915": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzE5XHVkODM1XHVkZGRjXHVkODM1XHVkZGU1XHVkODM1XHVkZGQ2XHVkODM1XHVkZGUyXHVkODM1XHVkZGUxXHVkODM1XHVkZGQ5XHVkODM1XHVkZGRjXHVkODM1XHVkZGRhXHVkODNlXHVkZDkxNiIsImFkZCI6IjE4OC4xMTQuOTYuMSIsInBvcnQiOiI0NDMiLCJpZCI6IjgwYmUyZGViLTNiMjctNDc3NS05YmQxLTdmMmEyYjljMjYxYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIn0=": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%917": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.184.104:19999#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%918": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=looazzboijji.global.ssl.fastly.net.&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%919": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzE5XHVkODM1XHVkZGRjXHVkODM1XHVkZGU1XHVkODM1XHVkZGQ2XHVkODM1XHVkZGUyXHVkODM1XHVkZGUxXHVkODM1XHVkZGQ5XHVkODM1XHVkZGRjXHVkODM1XHVkZGRhXHVkODNlXHVkZDkxMTAiLCJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIn0=": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "vless://17ead557-8407-42ae-b9a1-f11a869f99c6@ifi1.modemjibi.com:993?allowInsecure=1&alpn=http%2F1.1&encryption=none&fp=chrome&path=%2F&security=tls&sni=ifi1.modemjibi.com.&type=ws#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%9111": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
+  },
+  "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@162.159.254.201:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=freeceshi6.frii.site&path=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&security=tls&sni=freeceshi6.frii.site&type=ws#%F0%9F%90%99%F0%9D%97%9C%F0%9D%97%A5%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%99%F0%9D%97%9C%F0%9D%97%9A%F0%9F%A6%9112": {
+    "source_file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+    "published_at": "2026-11-28T18:08:30+00:00"
   },
   "trojan://Z-jckziI1rW4yrUMorrv0Q@ipfast.kingmna.com:443?allowInsecure=1&host=loosnsj5aboijji.global.ssl.fastly.net&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%D8%AD%D8%AC%D9%85%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%20%D9%85%D8%AD%D8%AF%D9%88%D8%AF": {
     "source_file": "v2ray_Mammad_2650_تانل سرعتیییییی ناب.npvt",

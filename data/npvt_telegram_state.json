@@ -1,7 +1,7 @@
 {
   "channels": {
     "MARAMBASHI": 42003,
-    "v2ray_Mammad": 2650,
+    "v2ray_Mammad": 2656,
     "levconnect": 2113,
     "iranping24": 2461,
     "Configvibes": 2050,
@@ -17,14 +17,14 @@
     "yorpeanel": 168,
     "Nexus_Panell": 1993,
     "JKVPN": 17632,
-    "CloudVPNchannel": 9220,
+    "CloudVPNchannel": 9221,
     "NUFiLTER": 9060,
     "PLANB_NET": 3810,
     "xxnetwork": 331392,
-    "Alpha_V2ray_Group": 1218241,
-    "RahinGP": 489447,
-    "Gp_config": 117653,
-    "ProxyShady": 207126
+    "Alpha_V2ray_Group": 1218267,
+    "RahinGP": 489451,
+    "Gp_config": 117661,
+    "ProxyShady": 207145
   },
   "recent_downloads": [
     {
@@ -33,20 +33,6 @@
       "message_id": 2645,
       "file": "v2ray_Mammad_2645_پرسرعتتت همه نت تاظهر (2).npvt",
       "sha256": "aecb50db8b8fd64c81c79697cbcff5e4c5d5b6981d1d5c191c5937e7f630c5c9"
-    },
-    {
-      "published_at": "2026-11-27T18:04:32+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1217872,
-      "file": "v2ray_Mammad_2638_10سرور پرسرعتت اختصاصی.npvt",
-      "sha256": "06e522ec33c414d25318aa8949ff4774ae5d348dd0d3193caa627e5c6163bbb0"
-    },
-    {
-      "published_at": "2026-11-27T18:14:12+00:00",
-      "channel": "Alpha_V2ray_Group",
-      "message_id": 1217876,
-      "file": "Alpha_V2ray_Group_1217659_YektaCloud _.npvt",
-      "sha256": "fbb6051c9569a37e560a93d535c69b13d7f7128206d3a48199bc0d710d27d80a"
     },
     {
       "published_at": "2026-11-27T18:18:33+00:00",
@@ -175,13 +161,6 @@
       "sha256": "aecb50db8b8fd64c81c79697cbcff5e4c5d5b6981d1d5c191c5937e7f630c5c9"
     },
     {
-      "published_at": "2026-11-27T18:10:04+00:00",
-      "channel": "RahinGP",
-      "message_id": 488903,
-      "file": "RahinGP_488456__𝗡𝗜𝗧𝗥𝗨 𝗩𝗜𝗣_.npvt",
-      "sha256": "84b3d35915756fce3c03ba80d4fd356cc7d87ea9264baffeb3c56201a478c630"
-    },
-    {
       "published_at": "2026-11-27T18:29:01+00:00",
       "channel": "RahinGP",
       "message_id": 488914,
@@ -222,76 +201,6 @@
       "message_id": 117365,
       "file": "Gp_config_117365_VpnByZikkO _ N10.npvt",
       "sha256": "46b70c333d441f60379f9fdd2cd2fde609f10a33a85cf1b84e4546e061f5a076"
-    },
-    {
-      "published_at": "2026-11-27T18:00:35+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206239,
-      "file": "Gp_config_117111__VASLBOX1_.npvt",
-      "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
-    },
-    {
-      "published_at": "2026-11-27T18:00:53+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206242,
-      "file": "ProxyShady_206242__Spinovpn_.npvt",
-      "sha256": "2c0b4a59901107fc17e138d4341972d929ac59131b766c1fc3d8fb310509b4c3"
-    },
-    {
-      "published_at": "2026-11-27T18:02:10+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206243,
-      "file": "v2ray_Mammad_2638_10سرور پرسرعتت اختصاصی.npvt",
-      "sha256": "06e522ec33c414d25318aa8949ff4774ae5d348dd0d3193caa627e5c6163bbb0"
-    },
-    {
-      "published_at": "2026-11-27T18:04:28+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206245,
-      "file": "v2ray_Mammad_2638_10سرور پرسرعتت اختصاصی.npvt",
-      "sha256": "06e522ec33c414d25318aa8949ff4774ae5d348dd0d3193caa627e5c6163bbb0"
-    },
-    {
-      "published_at": "2026-11-27T18:05:43+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206247,
-      "file": "Gp_config_117130_𝐕2𝐫𝐚𝐲_𝐀𝐌 𝐕𝐈𝐏 _ _.npvt",
-      "sha256": "0b4118877adfe5d8401bce27bea38d59f963693fbee85a30cca163f4ab9498d4"
-    },
-    {
-      "published_at": "2026-11-27T18:08:48+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206252,
-      "file": "ProxyShady_205270__مولتی لوکیشن_.npvt",
-      "sha256": "3a100ffd0e12a4f182c878244e82188b2752dc60ad7e9a0c6dccfc493db8fbd9"
-    },
-    {
-      "published_at": "2026-11-27T18:12:00+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206256,
-      "file": "Gp_config_117111__VASLBOX1_.npvt",
-      "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
-    },
-    {
-      "published_at": "2026-11-27T18:13:48+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206258,
-      "file": "Alpha_V2ray_Group_1217659_YektaCloud _.npvt",
-      "sha256": "fbb6051c9569a37e560a93d535c69b13d7f7128206d3a48199bc0d710d27d80a"
-    },
-    {
-      "published_at": "2026-11-27T18:15:54+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206261,
-      "file": "Gp_config_117130_𝐕2𝐫𝐚𝐲_𝐀𝐌 𝐕𝐈𝐏 _ _.npvt",
-      "sha256": "0b4118877adfe5d8401bce27bea38d59f963693fbee85a30cca163f4ab9498d4"
-    },
-    {
-      "published_at": "2026-11-27T18:17:31+00:00",
-      "channel": "ProxyShady",
-      "message_id": 206264,
-      "file": "Gp_config_117111__VASLBOX1_.npvt",
-      "sha256": "e9b854be3154100f0d01d41834dc9e60a0262a17d0f49d181aa5394c719f7b4f"
     },
     {
       "published_at": "2026-11-27T18:18:57+00:00",
@@ -3134,6 +3043,34 @@
       "message_id": 207124,
       "file": "ProxyShady_207124__Spinovpn_.npvt",
       "sha256": "fe8159ed807072345a9abe030554020684a2691f2a1ef6225396a73b24bbe9c8"
+    },
+    {
+      "published_at": "2026-11-28T18:12:46+00:00",
+      "channel": "Alpha_V2ray_Group",
+      "message_id": 1218255,
+      "file": "Alpha_V2ray_Group_1217659_YektaCloud _.npvt",
+      "sha256": "fbb6051c9569a37e560a93d535c69b13d7f7128206d3a48199bc0d710d27d80a"
+    },
+    {
+      "published_at": "2026-11-28T18:08:30+00:00",
+      "channel": "RahinGP",
+      "message_id": 489448,
+      "file": "RahinGP_489448__𝗜𝗥𝗖𝗢𝗡𝗙𝗜𝗚_.npvt",
+      "sha256": "0b20651ebb903dd88f5553828e8868fcdc914014b6405205ed6db57fb4600cee"
+    },
+    {
+      "published_at": "2026-11-28T18:07:17+00:00",
+      "channel": "Gp_config",
+      "message_id": 117657,
+      "file": "Gp_config_117657_VpnByZikkO _ N15.npvt",
+      "sha256": "66d95d16d2d4084d89d3c192fbc12118875e05b30c14b180e82abf71e50cf7d2"
+    },
+    {
+      "published_at": "2026-11-28T18:12:45+00:00",
+      "channel": "ProxyShady",
+      "message_id": 207138,
+      "file": "Alpha_V2ray_Group_1217659_YektaCloud _.npvt",
+      "sha256": "fbb6051c9569a37e560a93d535c69b13d7f7128206d3a48199bc0d710d27d80a"
     }
   ]
 }
